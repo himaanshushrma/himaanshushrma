@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**himaanshushrma/himaanshushrma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./orbital_banner_tactical_green.svg" width="100%" />
 
-Here are some ideas to get you started:
+# ORBITAL RECON COMMAND
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### UAV AI • Computer Vision • Autonomous Systems
+
+</div>
+
+---
+
+## LIVE MISSION STATUS
+
+| SYSTEM | STATUS |
+|---------|--------|
+| Traffic Analytics | 🟢 ONLINE |
+| Runway Crack Detection | 🟢 ACTIVE |
+| UAV Object Tracking | 🟢 READY |
+| ROS2 Navigation | 🟡 IN DEVELOPMENT |
+
+---
+
+## CURRENT MISSIONS
+
+- Mission 01 · Vehicle Traffic Analytics
+- Mission 02 · Runway Integrity AI
+- Mission 03 · UAV Multi Object Tracking
+
+---
+
+## AI CORE
+
+Python · YOLO11 · OpenCV · PyTorch · ROS2 · Git · Linux
