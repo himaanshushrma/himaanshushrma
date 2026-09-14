@@ -1,34 +1,36 @@
 <div align="center">
 
-<img src="./orbital_banner_tactical_green (4).svg" width="100%" />
+<img src="./orbital_banner_tactical_green.svg" width="100%" />
 
 # ORBITAL RECON COMMAND
 
-### UAV AI • Computer Vision • Autonomous Systems
+`UAV AI • Computer Vision • Autonomous Systems`
 
 </div>
 
 ---
 
-## LIVE MISSION STATUS
+## 🟢 LIVE TELEMETRY
 
-| SYSTEM | STATUS |
-|---------|--------|
-| Traffic Analytics | 🟢 ONLINE |
+| MODULE | STATUS |
+|:--|:--|
+| Vehicle Traffic Analytics | 🟢 ONLINE |
 | Runway Crack Detection | 🟢 ACTIVE |
 | UAV Object Tracking | 🟢 READY |
-| ROS2 Navigation | 🟡 IN DEVELOPMENT |
+| ROS2 Navigation | 🟡 BUILDING |
 
 ---
 
-## CURRENT MISSIONS
+## 📡 ACTIVE MISSIONS
 
-- Mission 01 · Vehicle Traffic Analytics
-- Mission 02 · Runway Integrity AI
-- Mission 03 · UAV Multi Object Tracking
+🔹 Mission 01 — Vehicle Traffic Analytics
+
+🔹 Mission 02 — Runway Integrity AI
+
+🔹 Mission 03 — UAV Multi Object Tracking
 
 ---
 
-## AI CORE
+## ⚙️ AI CORE
 
-Python · YOLO11 · OpenCV · PyTorch · ROS2 · Git · Linux
+`Python` `YOLO11` `OpenCV` `PyTorch` `ROS2` `Git` `Linux`
