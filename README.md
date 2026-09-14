@@ -6,7 +6,7 @@
 # ORBITAL RECON COMMAND
 
 `UAV AI • Computer Vision • Autonomous Systems`
-=======
+
 <img src="./assets/orbital_banner.svg" width="100%" />
 
 # ORBITAL RECON COMMAND
@@ -14,13 +14,13 @@
 ### UAV AI • Computer Vision • Autonomous Systems
 
 > Building autonomous aerial intelligence with Computer Vision, YOLO, ROS2 and Deep Learning.
->>>>>>> e14eb84 (Create tactical GitHub profile HUD)
+(Create tactical GitHub profile HUD)
 
 </div>
 
 ---
 
-<<<<<<< HEAD
+
 ## 🟢 LIVE TELEMETRY
 
 | MODULE | STATUS |
