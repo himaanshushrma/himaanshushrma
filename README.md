@@ -1,6 +1,6 @@
 <div align="center">
 
-<<<<<<< HEAD
+
 <img src="./orbital_banner_tactical_green (4).svg" width="100%" />
 
 # ORBITAL RECON COMMAND
