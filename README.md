@@ -178,3 +178,9 @@ FOCUS AREA
 <div align="center">
   <img src="./assets/telemetry_graph.svg" width="100%"/>
 </div>
+
+## 🛰️ AI PROJECT NETWORK
+
+<div align="center">
+  <img src="./assets/project_network.svg" width="100%"/>
+</div>
