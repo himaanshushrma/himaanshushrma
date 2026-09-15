@@ -101,19 +101,6 @@
 
 </div>
 
----
-
-# 📊 TACTICAL ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=himaanshushrma&show_icons=true&theme=transparent&title_color=32FF9C&text_color=C9FDD7&icon_color=32FF9C&border_color=1F5D43"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaanshushrma&layout=compact&theme=transparent&title_color=32FF9C&text_color=C9FDD7&border_color=1F5D43"/>
-
-</div>
-
----
 
 # 🔥 CONTRIBUTION STREAK
 
