@@ -172,3 +172,9 @@ FOCUS AREA
 <div align="center">
   <img src="./assets/radar_animation.svg" width="100%" />
 </div>
+
+## 📈 LIVE DRONE TELEMETRY
+
+<div align="center">
+  <img src="./assets/telemetry_graph.svg" width="100%"/>
+</div>
