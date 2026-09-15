@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="./assets/orbital_banner_tactical_green.svg" width="100%" />
+<img src="./assets/orbital_banner_tactical_green.svg" width="100%" alt="Orbital Recon Command Banner"/>
 
 # ORBITAL RECON COMMAND
 
-### UAV AI • Computer Vision • Autonomous Systems
+### HIMANSHU SHARMA
 
-> Building autonomous aerial intelligence with Computer Vision, YOLO11, OpenCV, PyTorch & ROS2
+**UAV AI • Computer Vision • Autonomous Systems**
+
+> Building autonomous aerial intelligence with YOLO11, OpenCV, PyTorch & ROS2
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32FF9C&center=true&vCenter=true&width=650&lines=UAV+AI+Engineer;Computer+Vision+Developer;YOLO11+%7C+OpenCV+%7C+ROS2;Building+Autonomous+Systems"/>
 
@@ -14,9 +16,9 @@
 
 ---
 
-# 🟢 LIVE TELEMETRY
+## 🟢 LIVE TELEMETRY
 
-| MODULE | STATUS |
+| System | Status |
 |:--|:--|
 | 🚗 Vehicle Traffic Analytics | 🟢 ONLINE |
 | 🛣️ Runway Crack Detection | 🟢 ACTIVE |
@@ -25,68 +27,40 @@
 
 ---
 
-# 📡 ACTIVE MISSIONS
-
-- 🚗 **Mission 01** — Vehicle Traffic Analytics
-- 🛣️ **Mission 02** — Runway Crack Detection
-- 🛰️ **Mission 03** — UAV Multi Object Tracking
-- 🤖 **Mission 04** — ROS2 Autonomous Navigation
-
----
-
-# 🎯 MISSION DASHBOARD
+## 🎯 MISSION DASHBOARD
 
 <div align="center">
-  <img src="./assets/mission_dashboard.svg" width="100%"/>
+
+<img src="./assets/mission_dashboard.svg" width="100%"/>
+
 </div>
 
 ---
 
-# 📡 AIRSPACE RADAR
+## 🖥️ MISSION CONTROL CONSOLE
 
 <div align="center">
-  <img src="./assets/radar_animation.svg" width="100%"/>
 
-  **LIVE AIRSPACE SCAN**
+<img src="./assets/mission_control.svg" width="100%"/>
 
-  Target Lock • UAV Tracking • 360° Surveillance
 </div>
+
+<details>
+<summary><b>View System Diagnostics</b></summary>
+
+| Module | State |
+|:--|:--|
+| YOLO11 Detection Engine | 🟢 ONLINE |
+| Multi Object Tracker | 🟢 RUNNING |
+| Computer Vision Pipeline | 🟢 STABLE |
+| ROS2 Navigation | 🟡 TESTING |
+| Telemetry Uplink | 🟢 CONNECTED |
+
+</details>
 
 ---
 
-# 📈 LIVE DRONE TELEMETRY
-
-<div align="center">
-  <img src="./assets/telemetry_graph.svg" width="100%"/>
-</div>
-
----
-
-# 🚁 UAV FLEET REGISTRY
-
-<div align="center">
-  <img src="./assets/fleet_registry.svg" width="100%"/>
-</div>
-
----
-
-# 🛰️ AI PROJECT NETWORK
-
-<div align="center">
-  <img src="./assets/project_network.svg" width="100%"/>
-</div>
-
----
-
-# 🖥️ MISSION CONTROL CONSOLE
-
-<div align="center">
-  <img src="./assets/mission_control.svg" width="100%"/>
-</div>
-
----
-
-# ⚙️ AI CORE
+## ⚙️ AI CORE
 
 <div align="center">
 
@@ -101,8 +75,17 @@
 
 </div>
 
+---
 
-# 🔥 CONTRIBUTION STREAK
+## 📊 TACTICAL ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=himaanshushrma&show_icons=true&theme=transparent&title_color=32FF9C&text_color=C9FDD7&icon_color=32FF9C&border_color=1F5D43"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himaanshushrma&layout=compact&theme=transparent&title_color=32FF9C&text_color=C9FDD7&border_color=1F5D43"/>
+
+</div>
 
 <div align="center">
 
@@ -112,18 +95,7 @@
 
 ---
 
-# 🚀 FEATURED OPERATIONS
-
-| Project | Mission |
-|:--|:--|
-| 🚗 **Vehicle Traffic Analytics** | YOLO11 + DeepSORT real-time traffic intelligence |
-| 🛣️ **Runway Crack Detection** | AI-powered runway defect localization |
-| 🛰️ **UAV Multi Object Tracking** | Real-time aerial surveillance & tracking |
-| 🤖 **ROS2 Navigation** | Autonomous drone navigation framework |
-
----
-
-# 🛰️ FLAGSHIP PROJECTS
+## 🚀 FLAGSHIP PROJECTS
 
 <table>
 <tr>
@@ -131,22 +103,18 @@
 
 ### 🚗 Vehicle Traffic Analytics
 
-**YOLO11 + DeepSORT + OpenCV**
+**YOLO11 • ByteTrack • OpenCV**
 
-Real-time vehicle detection, counting and speed estimation.
-
-**Status:** 🟢 Operational
+Real-time vehicle detection, counting, speed estimation and traffic intelligence.
 
 </td>
 <td width="50%">
 
 ### 🛣️ Runway Crack Detection
 
-**Deep Learning + Segmentation**
+**Deep Learning • Segmentation**
 
-Automatic runway defect localization.
-
-**Status:** 🟢 Active
+AI-powered runway defect localization for infrastructure inspection.
 
 </td>
 </tr>
@@ -156,22 +124,18 @@ Automatic runway defect localization.
 
 ### 🛰️ UAV Multi Object Tracking
 
-**YOLO11 + Kalman Tracking**
+**YOLO11 • Kalman Filter**
 
-Persistent aerial object tracking.
-
-**Status:** 🟢 Ready
+Persistent aerial surveillance with real-time object identities.
 
 </td>
 <td width="50%">
 
 ### 🤖 ROS2 Navigation
 
-**Autonomous Robotics Framework**
+**Autonomous Robotics**
 
-Path planning & drone autonomy.
-
-**Status:** 🟡 Development
+Path planning and autonomous drone navigation framework.
 
 </td>
 </tr>
@@ -179,30 +143,21 @@ Path planning & drone autonomy.
 
 ---
 
-# 🎓 CURRENT RESEARCH
+## 🎓 CURRENT RESEARCH
 
 ```text
-FOCUS AREA
+UAV COMPUTER VISION
 │
-├── UAV Computer Vision
-├── Autonomous Navigation
 ├── Object Detection (YOLO11)
 ├── Multi Object Tracking
-├── ROS2 Robotics
-└── Deep Learning
+├── Runway Defect Analysis
+├── Autonomous Navigation
+└── ROS2 Robotics
 ```
 
 ---
 
-# 💻 ORBITAL TERMINAL
-
-<div align="center">
-  <img src="./assets/terminal_console.svg" width="100%"/>
-</div>
-
----
-
-# 🌍 MISSION STATUS
+## 🌍 MISSION STATUS
 
 <div align="center">
 
@@ -214,7 +169,7 @@ FOCUS AREA
 
 <div align="center">
 
-# ORBITAL RECON COMMAND
+## ORBITAL RECON COMMAND
 
 ### HIMANSHU SHARMA
 
