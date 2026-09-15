@@ -8,7 +8,7 @@
 
 > Building autonomous aerial intelligence with Computer Vision, YOLO11, OpenCV, PyTorch & ROS2
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32FF9C&center=true&vCenter=true&width=650&lines=UAV+AI+Engineer;Computer+Vision+Developer;YOLO11+%7C+OpenCV+%7C+ROS2;Building+Autonomous+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32FF9C&center=true&vCenter=true&width=650&lines=UAV+AI+Engineer;Computer+Vision+Developer;YOLO11+%7C+OpenCV+%7C+ROS2;Building+Autonomous+Systems"/>
 
 </div>
 
@@ -27,17 +27,17 @@
 
 # 📡 ACTIVE MISSIONS
 
-- 🚗 Mission 01 — Vehicle Traffic Analytics
-- 🛣️ Mission 02 — Runway Crack Detection
-- 🛰️ Mission 03 — UAV Multi Object Tracking
-- 🤖 Mission 04 — Autonomous Drone Navigation
+- 🚗 **Mission 01** — Vehicle Traffic Analytics
+- 🛣️ **Mission 02** — Runway Crack Detection
+- 🛰️ **Mission 03** — UAV Multi Object Tracking
+- 🤖 **Mission 04** — ROS2 Autonomous Navigation
 
 ---
 
 # 🎯 MISSION DASHBOARD
 
 <div align="center">
-  <img src="./assets/mission_dashboard.svg" width="100%" />
+  <img src="./assets/mission_dashboard.svg" width="100%"/>
 </div>
 
 ---
@@ -45,11 +45,11 @@
 # 📡 AIRSPACE RADAR
 
 <div align="center">
-  <img src="./assets/radar_animation.svg" width="100%" />
+  <img src="./assets/radar_animation.svg" width="100%"/>
 
-**LIVE AIRSPACE SCAN**
+  **LIVE AIRSPACE SCAN**
 
-Target Lock • UAV Tracking • 360° Surveillance
+  Target Lock • UAV Tracking • 360° Surveillance
 </div>
 
 ---
@@ -57,7 +57,7 @@ Target Lock • UAV Tracking • 360° Surveillance
 # 📈 LIVE DRONE TELEMETRY
 
 <div align="center">
-  <img src="./assets/telemetry_graph.svg" width="100%" />
+  <img src="./assets/telemetry_graph.svg" width="100%"/>
 </div>
 
 ---
@@ -65,7 +65,7 @@ Target Lock • UAV Tracking • 360° Surveillance
 # 🚁 UAV FLEET REGISTRY
 
 <div align="center">
-  <img src="./assets/fleet_registry.svg" width="100%" />
+  <img src="./assets/fleet_registry.svg" width="100%"/>
 </div>
 
 ---
@@ -73,7 +73,7 @@ Target Lock • UAV Tracking • 360° Surveillance
 # 🛰️ AI PROJECT NETWORK
 
 <div align="center">
-  <img src="./assets/project_network.svg" width="100%" />
+  <img src="./assets/project_network.svg" width="100%"/>
 </div>
 
 ---
@@ -81,7 +81,7 @@ Target Lock • UAV Tracking • 360° Surveillance
 # 🖥️ MISSION CONTROL CONSOLE
 
 <div align="center">
-  <img src="./assets/mission_control.svg" width="100%" />
+  <img src="./assets/mission_control.svg" width="100%"/>
 </div>
 
 ---
@@ -97,7 +97,6 @@ Target Lock • UAV Tracking • 360° Surveillance
 ![PyTorch](https://img.shields.io/badge/PyTorch-071A12?style=for-the-badge&logo=pytorch&logoColor=32FF9C)
 ![ROS2](https://img.shields.io/badge/ROS2-071A12?style=for-the-badge&logo=ros&logoColor=32FF9C)
 ![Linux](https://img.shields.io/badge/Linux-071A12?style=for-the-badge&logo=linux&logoColor=32FF9C)
-
 ![Git](https://img.shields.io/badge/Git-071A12?style=for-the-badge&logo=git&logoColor=32FF9C)
 
 </div>
@@ -137,6 +136,62 @@ Target Lock • UAV Tracking • 360° Surveillance
 
 ---
 
+# 🛰️ FLAGSHIP PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 Vehicle Traffic Analytics
+
+**YOLO11 + DeepSORT + OpenCV**
+
+Real-time vehicle detection, counting and speed estimation.
+
+**Status:** 🟢 Operational
+
+</td>
+<td width="50%">
+
+### 🛣️ Runway Crack Detection
+
+**Deep Learning + Segmentation**
+
+Automatic runway defect localization.
+
+**Status:** 🟢 Active
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛰️ UAV Multi Object Tracking
+
+**YOLO11 + Kalman Tracking**
+
+Persistent aerial object tracking.
+
+**Status:** 🟢 Ready
+
+</td>
+<td width="50%">
+
+### 🤖 ROS2 Navigation
+
+**Autonomous Robotics Framework**
+
+Path planning & drone autonomy.
+
+**Status:** 🟡 Development
+
+</td>
+</tr>
+</table>
+
+---
+
 # 🎓 CURRENT RESEARCH
 
 ```text
@@ -155,7 +210,7 @@ FOCUS AREA
 # 💻 ORBITAL TERMINAL
 
 <div align="center">
-  <img src="./assets/terminal_console.svg" width="100%" />
+  <img src="./assets/terminal_console.svg" width="100%"/>
 </div>
 
 ---
