@@ -163,3 +163,12 @@ FOCUS AREA
 <img src="https://streak-stats.demolab.com?user=himaanshushrma&theme=transparent&ring=32FF9C&fire=32FF9C&currStreakLabel=32FF9C&sideLabels=C9FDD7&dates=8FBFA8&border=1F5D43"/>
 
 </div>
+
+
+---
+
+# 🎯 TACTICAL RADAR
+
+<div align="center">
+  <img src="./assets/radar_animation.svg" width="100%" />
+</div>
