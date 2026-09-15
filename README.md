@@ -184,3 +184,9 @@ FOCUS AREA
 <div align="center">
   <img src="./assets/project_network.svg" width="100%"/>
 </div>
+
+## 🖥️ MISSION CONTROL CONSOLE
+
+<div align="center">
+  <img src="./assets/mission_control.svg" width="100%"/>
+</div>
