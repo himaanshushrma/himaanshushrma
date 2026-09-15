@@ -190,3 +190,18 @@ FOCUS AREA
 <div align="center">
   <img src="./assets/mission_control.svg" width="100%"/>
 </div>
+
+---
+
+# 📡 AIRSPACE RADAR
+
+<div align="center">
+
+<img src="./assets/radar_animation.svg" width="100%"/>
+
+**LIVE AIRSPACE SCAN**
+
+Target Lock • UAV Tracking • 360° Surveillance
+
+</div>
+
