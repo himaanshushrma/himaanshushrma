@@ -12,6 +12,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=32FF9C&center=true&vCenter=true&width=650&lines=UAV+AI+Engineer;Computer+Vision+Developer;YOLO11+%7C+OpenCV+%7C+ROS2;Building+Autonomous+Systems"/>
 
+<a href="https://himaanshushrma.github.io"><img src="https://img.shields.io/badge/%E2%96%B6%20PLAY%20MY%20PORTFOLIO-himaanshushrma.github.io-32FF9C?style=for-the-badge&labelColor=0b1410" alt="Play my portfolio"/></a>
+
 </div>
 
 ---
